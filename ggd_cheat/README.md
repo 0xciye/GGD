@@ -84,6 +84,6 @@ Mã nguồn riêng dùng [34Cheat Attribution License 1.0](../LICENSE), là lice
 
 > Based on 34Cheat by CiyE (0xciye).
 >
-> Source: https://github.com/0xciye/34Cheat
+> Source: https://github.com/0xciye/GGD
 
 Chỉ ghi trong ứng dụng hoặc file license là chưa đủ cho sản phẩm bán. Phải giữ thông báo bản quyền và license khi phân phối; xem toàn bộ điều kiện trong [LICENSE](../LICENSE). Thư viện bên thứ ba giữ giấy phép riêng tại [THIRD_PARTY.md](THIRD_PARTY.md).

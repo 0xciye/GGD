@@ -50,8 +50,8 @@ Dear ImGui and MinHook source are included. No game DLL or metadata dump is need
 Run these commands in Command Prompt, or run the batch file from PowerShell:
 
 ```bat
-git clone https://github.com/0xciye/34Cheat.git
-cd 34Cheat\ggd_cheat
+git clone https://github.com/0xciye/GGD.git
+cd GGD\ggd_cheat
 .\build.bat
 ```
 
@@ -121,7 +121,7 @@ Project-owned code is licensed under the custom [34Cheat Attribution License 1.0
 
 > Based on 34Cheat by CiyE (0xciye).
 >
-> Source: https://github.com/0xciye/34Cheat
+> Source: https://github.com/0xciye/GGD
 
 Credit only inside the application, a license file or a separate credits page does not satisfy the sales-page requirement. Copyright and license notices must also accompany redistributed source and binaries. The [full license](LICENSE) defines the applicable conditions.
 
