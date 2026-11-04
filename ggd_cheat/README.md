@@ -52,4 +52,8 @@ Game có thể thay đổi layout và địa chỉ giữa các bản cập nhậ
 
 ## Giấy phép
 
-Xem [THIRD_PARTY.md](THIRD_PARTY.md) cho thư viện bên thứ ba. Chưa đặt giấy phép chung cho mã nguồn riêng của dự án; chủ sở hữu cần chọn giấy phép nếu muốn cấp quyền sử dụng, sửa đổi và phân phối lại.
+Mã nguồn riêng của dự án dùng [34Cheat Attribution License 1.0](../LICENSE), là license tùy chỉnh. Được phép sửa, phát triển và bán lại theo điều kiện trong license. Khi bán phần mềm hoặc sản phẩm chứa mã nguồn này, kể cả bản đã sửa đổi, mỗi trang bán hàng/bài đăng bán phải ghi rõ **CiyE (0xciye)** và link repo trong phần mô tả chính, đọc được trước khi mua:
+
+> Based on 34Cheat by CiyE (0xciye). Source: https://github.com/0xciye/34Cheat
+
+Chỉ ghi trong ứng dụng hoặc file license là chưa đủ cho sản phẩm bán. Phải giữ thông báo bản quyền và license khi phân phối. Đây không phải BSD-3-Clause chuẩn hay license được OSI phê duyệt. Thư viện bên thứ ba giữ giấy phép riêng; xem [THIRD_PARTY.md](THIRD_PARTY.md).

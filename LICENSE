@@ -1,0 +1,63 @@
+34Cheat Attribution License 1.0
+
+Copyright (c) 2026 CiyE (0xciye)
+
+This is a custom license, not the standard BSD-3-Clause license.
+
+1. Scope and permission
+
+This license covers the original project code and documentation in this
+repository (the "Software"). Third-party components retain their respective
+licenses; see ggd_cheat/THIRD_PARTY.md. This license does not relicense those
+components or claim ownership of independently authored contributions.
+
+Permission is granted to use, copy, modify, develop, combine, distribute,
+sublicense and sell the Software, including modified versions and products
+incorporating the Software, subject to all conditions below.
+
+2. Preservation of notices
+
+Source distributions must retain this copyright notice and the complete text
+of this license. Binary distributions must reproduce them in the accompanying
+documentation or other materials delivered with the product. Modifications,
+renaming or combination with other software do not remove these obligations
+for the covered Software. Any sublicense must preserve these conditions for
+the covered Software and pass them on to recipients.
+
+3. Required credit on sales pages
+
+If you offer the Software, a modified version, or a product incorporating the
+Software for sale or paid access, each sales page or listing you publish or
+control for that offering must visibly include the following attribution:
+
+    Based on 34Cheat by CiyE (0xciye).
+    Source: https://github.com/0xciye/34Cheat
+
+This requirement includes storefronts, marketplace listings, product sales
+pages and sales posts, and applies to sales of source, binaries, license keys,
+subscriptions, paid access and bundles containing the covered Software.
+
+Place the attribution in the main product description, readable before
+purchase, without login, payment, expansion of a collapsed section or access
+to another page. Where the platform supports links, the source URL must be a
+clickable link; otherwise display the full URL as plain text. A notice only
+inside the application, in a license file, in a site-wide footer or on a
+separate credits page does not satisfy this sales-page requirement.
+
+You may identify your own modifications and contributors alongside this
+credit, but must not remove, obscure or misrepresent the original credit.
+This condition applies to modified versions as well as unmodified copies.
+
+4. No endorsement
+
+The copyright holder's name and contributors' names may not be used to imply
+endorsement or sponsorship without prior written permission. The factual
+attribution required above is permitted and does not imply endorsement.
+
+5. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR
+CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE OR OTHER DEALINGS.
