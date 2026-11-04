@@ -1,0 +1,21 @@
+# Generated build and test artifacts
+*.exe
+*.dll
+*.pdb
+*.obj
+*.exp
+*.lib
+*.res
+*.ilk
+*.log
+/EmbeddedDll.h
+/tests/out/
+
+# Local runtime/settings
+*.ini
+*.dmp
+__pycache__/
+*.pyc
+.vs/
+.vscode/
+*.user
